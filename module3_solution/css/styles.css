@@ -1,0 +1,60 @@
+/* TabletView */
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  letter-spacing: 1.2px;
+}
+
+body {
+  background-color: #243763;
+}
+
+#navb.bg-col {
+  background-color: #ef7946 !important;
+}
+.pd-0 {
+  padding: 0px !important;
+}
+
+.fs-2 {
+  font-size: 2rem;
+}
+
+.fs-15 {
+  font-size: 1.5rem;
+}
+
+.fs-12 {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+#title {
+  margin-top: 10px;
+  color: #ef7946;
+}
+
+#item1 {
+  margin: 50px 0px;
+  background-color: #ef7946;
+  border-radius: 10.9px;
+}
+
+#item2 {
+  margin: 50px 0px;
+  background-color: #ef7946;
+  border-radius: 10.9px;
+}
+
+#item3 {
+  margin: 50px 0px;
+  background-color: #ef7946;
+  border-radius: 10.9px;
+}
+
+@media (min-width: 576px) {
+  #navbarSupportedContent.dis-sm-none {
+    display: none !important;
+  }
+}
